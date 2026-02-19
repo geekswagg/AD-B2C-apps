@@ -8,15 +8,15 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "^0.59.6",
-    "react-native-app-auth": "^3.1.0",
+    "react-native": "^0.84.0",
+    "react-native-app-auth": "^8.1.0",
     "styled-components": "^3.4.9"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/runtime": "^7.4.4",
     "babel-jest": "^24.7.1",
-    "jest": "^24.7.1",
+    "jest": "^30.2.0",
     "metro-react-native-babel-preset": "^0.53.1",
     "react-test-renderer": "16.8.3"
   },
